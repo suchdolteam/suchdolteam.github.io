@@ -1,0 +1,41 @@
+{
+
+
+    "Name": "Kalkulačka",
+
+    "ErrTxt_ZeroDivide": "CHYBA: Nemůžeš dělit nulou!",
+    "ErrTxt_NumMis": "CHYBA: Nezadali jste nějáke číslo!",
+    "ErrTxt_LenghtEx": "CHYBA: Přesáhli jste hranici čísel! Mužete použít maximálně 10 čísel",
+    "ApperenceMenu": "Vzhled",
+    "LeanguleMenu": "Jayzky",
+    "HelpMenu": "Pomoc",
+    "AboutMenu": "O CalcX",
+    "FeedbackMenu": "Poslat zětnou vazbu",
+    "Guide": "Příručka",
+    "AboutTXT": "O CalcX\n\nCalcX je zadarmo použitelná jednoduchá kalkulačka\n\nVytvořeno vývojáři ze Suchdol team\n\nVývojáři:\nTomáš Marek\nLukáš Marek\n\nVerze: 1.0",
+    "CloseAbout": "Zpět",
+    "Green": "Zelená",
+    "LightGreen": "Světle Zelená",
+    "Blue": "Modrá",
+    "LightBlue": "Světle Modrá",
+    "Aqua": "Aqua",
+    "Red": "Červená",
+    "Yellow": "Žlutá",
+    "Pink": "Růžová",
+    "Themes": "Motivy",
+    "CalculatorTheme": "Motiv Kalkulačky",
+    "Mode": "Mód",
+    "Day": "Den",
+    "Night": "Noc",
+    "WebPageButton": "Naše Webové Stránky"
+
+
+
+
+
+
+
+
+}
+
+

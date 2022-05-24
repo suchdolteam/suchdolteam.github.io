@@ -1,0 +1,41 @@
+{
+
+  "Name": "Calculator",
+
+  "ErrTxt_ZeroDivide": "ERROR: You cant divide by zero!",
+  "ErrTxt_NumMis": "ERROR: Some numbers misiing!",
+  "ErrTxt_LenghtEx": "ERROR: You cross max number limit! You cannot enter more than 10 Numbers!",
+  "ApperenceMenu": "Apperence",
+  "LeanguleMenu": "Languages",
+  "HelpMenu": "Help",
+  "AboutMenu": "About CalcX",
+  "FeedbackMenu": "Send feedback",
+  "Guide": "Guide",
+  "AboutTXT": "About CalcX\n\nCalcX is free to use simple calculator\n\nCreated by Suchdol team\n\nDevelopers:\nTomas Marek\nLukas Marek\n\nVersion 1.0",
+  "CloseAbout": "Back",
+  "Green": "Green",
+  "LightGreen": "Light Green",
+  "Blue": "Blue",
+  "LightBlue": "Light Blue",
+  "Aqua": "Aqua",
+  "Red": "Red",
+  "Yellow": "Yellow",
+  "Pink": "Pink",
+  "Themes": "Themes",
+  "CalculatorTheme": "Calculator Theme",
+  "Mode": "Mode",
+  "Day": "Day",
+  "Night": "Night",
+  "WebPageButton": "Our Web Pages"
+
+
+
+
+
+
+
+
+
+}
+
+

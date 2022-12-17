@@ -25,6 +25,25 @@
             font-size: large;
         }
 
+        #acutton:link, #acutton:visited {
+            background-color: white;
+            color: black;
+            border: 2px solid rgb(30, 52, 122);
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: large;
+            pointer-events:none
+        }
+
+        #acutton:hover, #acutton:active {
+            background-color: rgb(30, 52, 122);
+            color: white;
+            font-size: large;
+            pointer-events:none
+        }
+
         #bbutton:link, #bbutton:visited {
           color: white;
         }
@@ -115,10 +134,8 @@
         <h2 style="color: rgb(30, 52, 122);">First Step: Get our unicate API key to make POST Requests</h2>
         <h2>To get our unicate API Key you need type in your browser <a id="ccutton" target="_blank" href="http://89.203.251.114/get-key">89.203.251.114/get-key</a>, then copy the Token value and paste it to txt file fot later usage.</h2>
         <h2 style="color: rgb(30, 52, 122);">Second Step: Make Json POST Request to our API Service</h2>
-        <h2>For json request you need create values with your OpenAI Input, Output, Max Tokens, Model, Temperature (Optional: top_p and n)</h2>
-        <p><a id="abutton" target="_blank" href="https://beta.openai.com/docs/api-reference/making-requests">OpenAI Requests Documentation</a></p>
-        <h2>After creating values add our code to yours, click on button for multiple codes examples (CSHARP, Javascript, Python)</h2>
-        <p><a id="abutton" target="_blank" href="https://github.com/tommarek1/KailOpenAILoggingDatabase">CSHARP implementation</a>ㅤㅤㅤ<a id="abutton" target="_blank" href="https://github.com/tommarek1/KailOpenAILoggingDatabase">Javascript implementation</a>ㅤㅤㅤ<a id="abutton" target="_blank" href="https://github.com/tommarek1/KailOpenAILoggingDatabase">Python implementation</a></p>
+        <h2>Add our code to yours, click on button for multiple codes examples (CSHARP, Javascript, Python)</h2>
+        <p><a id="acutton" target="_blank" href="https://github.com/tommarek1/KailOpenAILoggingDatabase">CSHARP implementation</a>ㅤㅤㅤ<a id="acutton" target="_blank" href="https://github.com/tommarek1/KailOpenAILoggingDatabase">Javascript implementation</a>ㅤㅤㅤ<a id="abutton" target="_blank" href="https://github.com/tommarek1/KailOpenAILoggingSytem/blob/main/request_python.py">Python implementation</a></p>
         <h2 style="color: rgb(30, 52, 122);">Third Step: Run your code and start helping</h2>
         <h2>Run your code and start Helping OpenAI to improve!<br>If something doesn't work or you have questions <a id="ccutton" target="_blank" href="Aboutus.html">Contact Us</a></h2>
       <!--<div class="footer">
